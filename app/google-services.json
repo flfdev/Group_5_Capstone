@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274729346962",
+    "project_id": "my-ninja-planner-to-do-list",
+    "storage_bucket": "my-ninja-planner-to-do-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274729346962:android:3eada985d0b9264ed6c34b",
+        "android_client_info": {
+          "package_name": "com.example.shinobiplanner_yourninjato_dolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNjiQVA7F025uolFZcMyv7MnsG0rEEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
